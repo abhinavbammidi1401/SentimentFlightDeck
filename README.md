@@ -10,7 +10,7 @@ The project involves creation of a webapp using python scripts, and demostrating
 
 ### Dashboard Snippets
 
-![Histogram](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/master/histogram.png)
+![Histogram](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/main/histogram.png)
 
 ![Pie Chart](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/piechart.png)
 
