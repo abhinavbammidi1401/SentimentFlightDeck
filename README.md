@@ -12,8 +12,8 @@ The project involves creation of a webapp using python scripts, and demostrating
 
 ![Histogram](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/main/histogram.png)
 
-![Pie Chart](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/piechart.png)
+![Pie Chart](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/main/piechart.png)
 
-![Tweets Location](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/maptweets.png)
+![Tweets Location](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/main/maptweets.png)
 
-![Tweet Sentiment Breakdown](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/tweetbreakdown.png)
+![Tweet Sentiment Breakdown](https://github.com/abhinavbammidi1401/SentimentFlightDeck/blob/main/tweetbreakdown.png)
